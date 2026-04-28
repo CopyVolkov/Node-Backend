@@ -1,0 +1,7 @@
+const os = require("node:os")
+console.log("Información del sistema operativo:")
+console.log('-------------------------------------------')
+console.log('Nombre del sistema operativo:', os.platform())
+console.log('Versión del sistema operativo:',os.release())
+console.log('Arquitectura del sistema operativo:', os.arch())
+console.log('Número de CPU:', os.cpus().length)
