@@ -1,0 +1,34 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de Node por 0 Euros",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/CopyVolkov/Node-Backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CopyVolkov/Node-Backend.git"
+  },
+  "keywords": [
+    "Curso",
+    "miduDev",
+    "Node",
+    "Nodejs"
+  ],
+  "author": "Juan Camilo Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CopyVolkov/Node-Backend/issues"
+  },
+  "homepage": "https://github.com/CopyVolkov/Node-Backend#readme",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
